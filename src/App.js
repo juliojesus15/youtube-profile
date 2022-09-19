@@ -1,6 +1,10 @@
+import './input.css'
+
 function App() {
   return (
-    <div> :D </div>
+    <div className="text-6xl p-2 font-bold text-gray-600 "> 
+      :D 
+    </div>
   );
 }
 
